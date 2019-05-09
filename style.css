@@ -11,7 +11,7 @@ body {
 
 h1 {
 	font-family: "PT Mono";
-	font-size: 40px;
+	font-size: 30px;
 	font-weight: 500;
 	letter-spacing: 0.1em;
 	color: white;
@@ -23,7 +23,7 @@ h1 {
 
 h2 {
 	font-family: "PT Mono";
-	font-size: 15px;
+	font-size: 12px;
 	font-weight: lighter;
 	line-height: 130%;
 	color: grey;
@@ -70,8 +70,8 @@ a:hover {
 /**------------------Standard Utopian------------------**/
 
 .standard-utopian {
-	width: 600px;
-	height: 100px;
+	width: 480px;
+	height: 80px;
 	background-color: black;
 	position: fixed;
 	top: 0;
@@ -79,15 +79,15 @@ a:hover {
 }
 
 .su-def h2 {
-	top: 120px;
-	left: 20px;
+	top: 95px;
+	left: 15px;
 }
 
 /**------------------Standard Dystopian------------------**/
 
 .standard-dystopian {
-	width: 600px;
-	height: 100px;
+	width: 480px;
+	height: 80px;
 	background-color: black;
 	position: fixed;
 	bottom: 0;
@@ -95,15 +95,15 @@ a:hover {
 }
 
 .sd-def h2 {
-	bottom: 120px;
-	left: 20px;
+	bottom: 95px;
+	left: 15px;
 }
 
 /**------------------Contrarian Utopian------------------**/
 
 .contrarian-utopian {
-	width: 600px;
-	height: 100px;
+	width: 480px;
+	height: 80px;
 	background-color: black;
 	position: fixed;
 	top: 0;
@@ -111,15 +111,15 @@ a:hover {
 }
 
 .cu-def h2 {
-	top: 120px;
-	right: 20px;
+	top: 95px;
+	right: 15px;
 }
 
 /**------------------Contrarian Dystopian------------------**/
 
 .contrarian-dystopian {
-	width: 600px;
-	height: 100px;
+	width: 480px;
+	height: 80px;
 	background-color: black;
 	position: fixed;
 	bottom: 0;
@@ -127,8 +127,8 @@ a:hover {
 }
 
 .cd-def h2 {
-	bottom: 120px;
-	right: 20px;
+	bottom: 95px;
+	right: 15px;
 }
 
 
