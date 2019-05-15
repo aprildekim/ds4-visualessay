@@ -1,0 +1,81 @@
+* {
+	margin: 10px;
+}
+
+body {
+	background-color: black;
+	margin-bottom: 100px;
+}
+
+h1 {
+	font-family: "PT Mono";
+	font-size: 20px;
+	font-weight: lighter;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	color: white;
+	text-align: center;
+	padding: 20px;
+}
+
+h2 {
+	font-family: "PT Mono";
+	font-size: 15px;
+	font-weight: lighter;
+	letter-spacing: 3px;
+	line-height: 25px;
+	color: white;
+	padding: 10px;
+}
+
+div {
+	padding: 8px;
+}
+
+img {
+	padding: 7px;
+}
+
+.boobkulele {
+	float: left;
+}
+
+.moodwaves {
+	float: left;
+}
+
+/*--------------------Images--------------------*/
+
+.boobkulele img {
+	width: 800px;
+}
+
+.traffic img {
+	height: 180px;
+}
+
+.lettersymbols img {
+	height: 200px;
+}
+
+.moodwaves img {
+	width: 550px;
+}
+
+.eggicons img {
+	width: 900px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
