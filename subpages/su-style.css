@@ -1,0 +1,84 @@
+* {
+	margin: 10px;
+}
+
+body {
+	background-color: black;
+	margin-bottom: 100px;
+}
+
+h1 {
+	font-family: "PT Mono";
+	font-size: 20px;
+	font-weight: lighter;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	color: white;
+	text-align: center;
+	padding: 20px;
+}
+
+h2 {
+	font-family: "PT Mono";
+	font-size: 15px;
+	font-weight: lighter;
+	letter-spacing: 3px;
+	color: white;
+	padding: 10px;
+}
+
+div {
+	padding: 8px;
+}
+
+img {
+	padding: 7px;
+}
+
+.infographic {
+	float: left;
+}
+
+.poster {
+	float: left;
+}
+
+/*--------------------Images--------------------*/
+
+.flags img {
+	width: 360px;
+}
+
+.infographic img {
+	width: 500px;
+}
+
+.typeimage img {
+	width: 170px;
+}
+
+.whatcheer img {
+	height: 250px;
+}
+
+.poster img {
+	width: 500px;
+}
+
+.buildings img {
+	width: 450px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
