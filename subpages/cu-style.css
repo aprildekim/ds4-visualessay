@@ -2,6 +2,36 @@
 	margin: 10px;
 }
 
+/**------------------Back to Index------------------**/
+
+a {
+	color: white;
+	text-decoration: none;
+}
+
+a:visited {
+	color: white;
+}
+
+a:hover {
+	color: #fff200;
+}
+
+h3 {
+	font-family: "PT Mono";
+	font-size: 15px;
+	font-weight: 600;
+	letter-spacing: 0.1em;
+	color: white;
+	text-align: left;
+	position: absolute;
+	top: 30px;
+	left: 30px;
+	padding: 15px;
+}
+
+/**------------------Content------------------**/
+
 body {
 	background-color: black;
 	margin-bottom: 100px;
