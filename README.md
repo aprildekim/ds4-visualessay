@@ -1,2 +1,2 @@
-# aprildekim.github.io/ds4-visualessay
+# ds4-visualessay
 DS4 Visual Essay Website
