@@ -1,2 +1,2 @@
-# self-contrarian.io
+# aprildekim.github.io/ds4-visualessay
 DS4 Visual Essay Website
